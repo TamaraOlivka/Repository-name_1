@@ -1,6 +1,6 @@
 { 
-  "type" : "module";
-  "main" : "./js/script.js";
+  "type" : "module",
+  "main" : "./js/script.js",
   "scripts": 
     { 
    "build" : "node ./js/script.js",
